@@ -5,11 +5,13 @@
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
-		"build": "tsc && vite build",
+		"build": "INLINE_RUNTIME_CHUNK=false craco build",
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@craco/craco": "^7.0.0",
 		"@picocss/pico": "^1.5.7",
+		"@types/chrome": "^0.0.212",
 		"react": "^18.2.0",
 		"react-dom": "^18.2.0",
 		"react-icons": "^4.7.1"
