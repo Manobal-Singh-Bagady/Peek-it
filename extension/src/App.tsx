@@ -1,10 +1,10 @@
-import Header from './components/Header'
-import Emission from './components/Emission'
+import Navbar from './components/Header/Navbar'
+import Emission from './components/Body/Emission'
 
 function App() {
 	return (
 		<div className='App container'>
-			<Header />
+			<Navbar />
 			<Emission />
 		</div>
 	)
