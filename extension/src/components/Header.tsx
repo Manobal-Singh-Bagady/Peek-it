@@ -4,20 +4,19 @@ export default function Header() {
 			<nav>
 				<ul>
 					<li>
-						<a href='#' className='secondary'>
-							…
-						</a>
-					</li>
-				</ul>
-				<ul>
-					<li>
 						<strong>Brand</strong>
 					</li>
 				</ul>
 				<ul>
 					<li>
-						<a href='#' className='secondary'>
-							…
+						<a href='#'>Link</a>
+					</li>
+					<li>
+						<a href='#'>Link</a>
+					</li>
+					<li>
+						<a href='#' role='button'>
+							Button
 						</a>
 					</li>
 				</ul>
