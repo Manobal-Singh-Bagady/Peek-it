@@ -2,7 +2,7 @@ import { FaGithub, FaHome } from 'react-icons/fa'
 
 export default function Navbar() {
 	return (
-		<>
+		<div className='container-fluid'>
 			<nav>
 				<ul>
 					<li>
@@ -27,6 +27,6 @@ export default function Navbar() {
 					</li>
 				</ul>
 			</nav>
-		</>
+		</div>
 	)
 }

@@ -6,6 +6,8 @@ import {FaGithub,FaHome} from "react-icons/fa"
 
 ReactDOM.createRoot(document.getElementById('root') as HTMLElement).render(
 	<React.StrictMode>
+		<div className='container-fluid'>
 		<App />
+		</div>
 	</React.StrictMode>
 )
