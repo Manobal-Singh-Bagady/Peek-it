@@ -1,0 +1,11 @@
+{
+    "name": "Peek it",
+    "description": "An Extension to measure your digital carbon footprint",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "No_Clue.inc",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Peek it"
+    }
+}
