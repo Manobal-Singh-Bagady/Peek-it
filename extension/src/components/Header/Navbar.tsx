@@ -16,7 +16,7 @@ export default function Navbar() {
 				</ul>
 				<ul>
 					<li>
-						<a title='Website' href='#' className='secondary'>
+						<a title='Website' href='https://peek-it.vercel.app/' target='_blank' className='secondary'>
 							<FiExternalLink />
 						</a>
 					</li>
