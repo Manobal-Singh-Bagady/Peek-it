@@ -6,9 +6,7 @@ export default function Navbar() {
 			<nav>
 				<ul>
 					<li>
-						<a href='#' className='secondary'>
 							<img src='/logo.png' alt='logo' width={40} />
-						</a>
 					</li>
 				</ul>
 				<ul>
