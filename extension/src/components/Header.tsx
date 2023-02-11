@@ -1,24 +1,21 @@
+
+
 export default function Header() {
 	return (
 		<div>
 			<nav>
 				<ul>
 					<li>
-						<strong>Brand</strong>
+						<img src="/logo.png" alt="logo" width={75}/>
 					</li>
 				</ul>
 				<ul>
 					<li>
-						<a href='#'>Link</a>
+						Peek it
 					</li>
-					<li>
-						<a href='#'>Link</a>
-					</li>
-					<li>
-						<a href='#' role='button'>
-							Button
-						</a>
-					</li>
+				</ul>
+				<ul>
+					<button>Site</button>
 				</ul>
 			</nav>
 		</div>
