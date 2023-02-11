@@ -2,7 +2,7 @@ export default function Emission() {
 	return (
 		<div className='Emission'>
 			<div className='container-fluid'>
-				<h6>Emissions:</h6>
+				<b className="">Carbon Emissions :</b>
 				<div className='grid'>
 					<article>
 						<header>

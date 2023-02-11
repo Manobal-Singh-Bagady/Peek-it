@@ -13,7 +13,7 @@ export default function Navbar() {
 				</ul>
 				<ul>
 					<li>
-						<strong>Peek it</strong>
+						<kbd>Peek it</kbd>
 					</li>
 				</ul>
 				<ul>
