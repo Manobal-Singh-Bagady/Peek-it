@@ -1,11 +1,16 @@
-import '../App.css'
 const Footer = () => {
 	return (
-		<span style={{alignItems:"center"}}>
-		<div className='container-fluid' style={{alignSelf:"center"}}>
-			Made by No_Clue.inc
+		<div>
+			<blockquote>
+				Made by <mark>No_Clue.inc</mark>
+				<footer>
+					<cite>
+						- The above data was collected from{' '}
+						<a href='https://websitetooltester.com'>websitetooltester.com</a>
+					</cite>
+				</footer>
+			</blockquote>
 		</div>
-		</span>
 	)
 }
 
