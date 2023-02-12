@@ -1,4 +1,4 @@
-import { FaGithub, FaHome } from 'react-icons/fa'
+import { FaGithub } from 'react-icons/fa'
 
 export default function Navbar() {
 	return (
@@ -20,6 +20,7 @@ export default function Navbar() {
 				<ul>
 					<li>
 						<a
+							title='Github'
 							href='https://github.com/Manobal-Singh-Bagady/TRINIT-No_Clue.inc-DEV02.git'
 							className='secondary'>
 							<FaGithub />
