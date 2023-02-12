@@ -6,7 +6,7 @@ export default function Navbar() {
 			<nav>
 				<ul>
 					<li>
-							<img src='/logo.png' alt='logo' width={40} />
+						<img src='/logo.png' alt='logo' width={40} />
 					</li>
 				</ul>
 				<ul>
@@ -16,7 +16,12 @@ export default function Navbar() {
 				</ul>
 				<ul>
 					<li>
-						<a title='Website' href='https://peek-it.vercel.app/' target='_blank' className='secondary'>
+						<a
+							rel='noopener'
+							title='Website'
+							href='https://peek-it.vercel.app/'
+							target='_blank'
+							className='secondary'>
 							<FiExternalLink />
 						</a>
 					</li>
