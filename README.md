@@ -2,7 +2,7 @@
 Repository made for Team No_Clue.inc's submission to TRI-NIT Hackathon's submission for the problem DEV02: Peeking the Emissions. 
 
 ## Demonstration
-You'll find a brief video demonstrating the project [**here**](//demonstration/)
+You'll find a brief video demonstrating the project [**here**](https://github.com/Manobal-Singh-Bagady/Peek-it/tree/main/demonstration)
 
 ## Installing guide
 
